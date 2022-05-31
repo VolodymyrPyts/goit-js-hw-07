@@ -56,4 +56,3 @@ function closeModalOnEscKey(evt) {
     blockModal.close();
   }
 }
-
